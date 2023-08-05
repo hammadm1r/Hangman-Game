@@ -1,0 +1,1 @@
+word.txt contain Words To Guess in the game You Can Put Other Word Or Whatever you want to Put To Guess not Much Difficult.
